@@ -1,0 +1,481 @@
+month,year,customer,cust_type,service,dept,city,sales,margin_pct,sale_type,cust_source,package
+Jan,2023,Nexa Core,Company,Social Media,Marketing,Al Ain,3125.0,0.3,Repeat Sale,Walk in,Annual
+Jan,2023,Sami Al Shamsi,Individual,Ads,Marketing,Ajman,3635.0,0.25,New Sale,Ads,Annual
+Jan,2023,Hanan Al Khatri,Individual,Social Media,Marketing,Dubai,3291.0,0.3,Repeat Sale,Ads,Bi Annual
+Jan,2023,Tariq Al Zahrani,Individual,App Dev,Design,Abu Dhabi,3668.0,0.4,New Sale,Ads,Quarterly
+Jan,2023,Layla Al Dhanhani,Individual,Ads,Marketing,Abu Dhabi,3970.0,0.25,Repeat Sale,Walk in,Quarterly
+Jan,2023,Synergenix Labs,Company,Social Media,Marketing,Dubai,2739.0,0.3,New Sale,Ads,Monthly
+Jan,2023,Omar Ali,Individual,Web Dev,Design,Abu Dhabi,2420.0,0.35,Repeat Sale,Walk in,Bi Annual
+Jan,2023,Aetherion Systems,Company,SEO,Copywriting,Sharjah,4802.0,0.25,Repeat Sale,Walk in,Annual
+Jan,2023,Aetherion Systems,Company,App Dev,Design,Al Ain,2620.0,0.4,New Sale,Ads,Bi Annual
+Jan,2023,Basma Nasser,Individual,Web Dev,Design,Al Ain,5593.0,0.35,Repeat Sale,Ads,Quarterly
+Jan,2023,Aetherion Systems,Company,Ads,Marketing,Al Ain,3237.0,0.25,Repeat Sale,Walk in,Quarterly
+Jan,2023,Fatima Saeed,Individual,Social Media,Marketing,Al Ain,4985.0,0.3,Repeat Sale,Walk in,Annual
+Jan,2023,Quanta Sphere Tech,Company,Web Dev,Design,Dubai,3886.0,0.35,Repeat Sale,Organic,Annual
+Jan,2023,Zayed Al Nuaimi,Individual,SEO,Copywriting,Sharjah,2585.0,0.25,New Sale,Ads,Bi Annual
+Jan,2023,Stratoscope,Company,Ads,Marketing,Al Ain,4826.0,0.25,New Sale,Ads,Annual
+Jan,2023,Luminex Global,Company,App Dev,Design,Ajman,2952.0,0.4,New Sale,Organic,Bi Annual
+Jan,2023,Altura Networks,Company,App Dev,Design,Abu Dhabi,3704.0,0.4,Repeat Sale,Ads,Bi Annual
+Jan,2023,Sarah Ahmed,Individual,Social Media,Marketing,Dubai,3999.0,0.3,Repeat Sale,Ads,Quarterly
+Jan,2023,Fatima Saeed,Individual,Web Dev,Design,Dubai,3947.0,0.35,Repeat Sale,Ads,Bi Annual
+Jan,2023,Vantoro Enterprises,Company,Web Dev,Design,Abu Dhabi,5447.0,0.35,Repeat Sale,Ads,Annual
+Feb,2023,Sarah Ahmed,Individual,Ads,Marketing,Dubai,2811.0,0.25,New Sale,Organic,Annual
+Feb,2023,Zephyr Industries,Company,Web Dev,Design,Dubai,3190.0,0.35,Repeat Sale,Walk in,Quarterly
+Feb,2023,Aetherion Systems,Company,Web Dev,Design,Al Ain,4578.0,0.35,Repeat Sale,Organic,Monthly
+Feb,2023,Noura Rashid,Individual,Web Dev,Design,Sharjah,3168.0,0.35,Repeat Sale,Organic,Annual
+Feb,2023,InfiNova Technologies,Company,SEO,Copywriting,Dubai,5585.0,0.25,Repeat Sale,Ads,Quarterly
+Feb,2023,Luminex Global,Company,Web Dev,Design,Dubai,3445.0,0.35,Repeat Sale,Organic,Annual
+Feb,2023,Synergenix Labs,Company,Social Media,Marketing,Dubai,2513.0,0.3,New Sale,Organic,Monthly
+Feb,2023,Basma Nasser,Individual,App Dev,Design,Abu Dhabi,3799.0,0.4,New Sale,Walk in,Annual
+Feb,2023,Sarah Ahmed,Individual,App Dev,Design,Dubai,4170.0,0.4,New Sale,Ads,Monthly
+Feb,2023,Zayed Al Nuaimi,Individual,App Dev,Design,Abu Dhabi,2951.0,0.4,Repeat Sale,Ads,Bi Annual
+Feb,2023,Quanta Sphere Tech,Company,SEO,Copywriting,Ajman,3425.0,0.25,New Sale,Ads,Annual
+Feb,2023,Rania Omar,Individual,Web Dev,Design,Abu Dhabi,5517.0,0.35,Repeat Sale,Walk in,Bi Annual
+Feb,2023,Aetherion Systems,Company,SEO,Copywriting,Dubai,4948.0,0.25,New Sale,Ads,Bi Annual
+Feb,2023,Fatima Saeed,Individual,Social Media,Marketing,Abu Dhabi,5592.0,0.3,New Sale,Organic,Annual
+Feb,2023,Jamal Al Maktoum,Individual,Ads,Marketing,Ajman,3116.0,0.25,Repeat Sale,Ads,Quarterly
+Feb,2023,Mona Al Humaidi,Individual,App Dev,Design,Abu Dhabi,2888.0,0.4,Repeat Sale,Organic,Monthly
+Feb,2023,Zephyr Industries,Company,Web Dev,Design,Al Ain,4547.0,0.35,Repeat Sale,Walk in,Bi Annual
+Feb,2023,Vantoro Enterprises,Company,Ads,Marketing,Ajman,3219.0,0.25,New Sale,Organic,Bi Annual
+Feb,2023,Synergenix Labs,Company,SEO,Copywriting,Sharjah,4139.0,0.25,Repeat Sale,Ads,Bi Annual
+Feb,2023,Mariam Al Shamsi,Individual,Social Media,Marketing,Abu Dhabi,4210.0,0.3,Repeat Sale,Ads,Quarterly
+Mar,2023,Yousuf Al Marri,Individual,Web Dev,Design,Ajman,4768.0,0.35,New Sale,Walk in,Monthly
+Mar,2023,Zayed Al Nuaimi,Individual,Web Dev,Design,Al Ain,4863.0,0.35,Repeat Sale,Organic,Annual
+Mar,2023,Fatima Saeed,Individual,Ads,Marketing,Sharjah,5209.0,0.25,Repeat Sale,Organic,Monthly
+Mar,2023,Sarah Ahmed,Individual,Ads,Marketing,Abu Dhabi,3807.0,0.25,New Sale,Ads,Monthly
+Mar,2023,InfiNova Technologies,Company,Web Dev,Design,Abu Dhabi,3219.0,0.35,New Sale,Ads,Quarterly
+Mar,2023,Altura Networks,Company,App Dev,Design,Dubai,5297.0,0.4,New Sale,Ads,Annual
+Mar,2023,Octavium Digital,Company,Ads,Marketing,Abu Dhabi,3331.0,0.25,New Sale,Organic,Quarterly
+Mar,2023,Jamal Al Maktoum,Individual,App Dev,Design,Dubai,3445.0,0.4,New Sale,Walk in,Monthly
+Mar,2023,Vantoro Enterprises,Company,Ads,Marketing,Abu Dhabi,3195.0,0.25,Repeat Sale,Ads,Quarterly
+Mar,2023,InfiNova Technologies,Company,Social Media,Marketing,Ajman,3458.0,0.3,Repeat Sale,Organic,Monthly
+Mar,2023,Nexa Core,Company,App Dev,Design,Ajman,2405.0,0.4,New Sale,Ads,Monthly
+Mar,2023,Solvium Solutions,Company,App Dev,Design,Sharjah,3828.0,0.4,New Sale,Walk in,Quarterly
+Mar,2023,Stratoscope,Company,App Dev,Design,Abu Dhabi,5260.0,0.4,New Sale,Ads,Monthly
+Mar,2023,Tariq Al Zahrani,Individual,Social Media,Marketing,Abu Dhabi,2548.0,0.3,Repeat Sale,Ads,Quarterly
+Mar,2023,Sami Al Shamsi,Individual,SEO,Copywriting,Ajman,4895.0,0.25,New Sale,Organic,Bi Annual
+Mar,2023,Synergenix Labs,Company,Web Dev,Design,Ajman,5675.0,0.35,New Sale,Walk in,Annual
+Mar,2023,InfiNova Technologies,Company,App Dev,Design,Al Ain,4614.0,0.4,New Sale,Ads,Annual
+Mar,2023,Mona Al Humaidi,Individual,SEO,Copywriting,Ajman,3757.0,0.25,Repeat Sale,Organic,Quarterly
+Mar,2023,Rania Omar,Individual,App Dev,Design,Al Ain,4527.0,0.4,Repeat Sale,Ads,Annual
+Mar,2023,Hanan Al Khatri,Individual,Ads,Marketing,Abu Dhabi,5027.0,0.25,New Sale,Organic,Monthly
+Apr,2023,Octavium Digital,Company,App Dev,Design,Ajman,4975.0,0.4,New Sale,Organic,Bi Annual
+Apr,2023,Mariam Al Shamsi,Individual,Web Dev,Design,Abu Dhabi,4828.0,0.35,Repeat Sale,Walk in,Quarterly
+Apr,2023,Vantoro Enterprises,Company,Web Dev,Design,Abu Dhabi,5616.0,0.35,Repeat Sale,Ads,Bi Annual
+Apr,2023,Mona Al Humaidi,Individual,Ads,Marketing,Al Ain,3803.0,0.25,New Sale,Organic,Annual
+Apr,2023,Solvium Solutions,Company,SEO,Copywriting,Dubai,3692.0,0.25,Repeat Sale,Ads,Quarterly
+Apr,2023,Tariq Al Zahrani,Individual,Social Media,Marketing,Al Ain,3029.0,0.3,Repeat Sale,Walk in,Quarterly
+Apr,2023,Saeed Al Saeed,Individual,Social Media,Marketing,Ajman,5670.0,0.3,New Sale,Ads,Quarterly
+Apr,2023,Vantoro Enterprises,Company,Ads,Marketing,Dubai,5483.0,0.25,Repeat Sale,Organic,Monthly
+Apr,2023,Nexa Core,Company,Web Dev,Design,Al Ain,2771.0,0.35,New Sale,Ads,Quarterly
+Apr,2023,Vantoro Enterprises,Company,App Dev,Design,Sharjah,4892.0,0.4,Repeat Sale,Ads,Quarterly
+Apr,2023,Sami Al Shamsi,Individual,Web Dev,Design,Abu Dhabi,3772.0,0.35,Repeat Sale,Walk in,Bi Annual
+Apr,2023,Zayed Al Nuaimi,Individual,App Dev,Design,Abu Dhabi,2496.0,0.4,Repeat Sale,Organic,Monthly
+Apr,2023,Octavium Digital,Company,App Dev,Design,Dubai,4405.0,0.4,Repeat Sale,Organic,Bi Annual
+Apr,2023,Rania Omar,Individual,Ads,Marketing,Abu Dhabi,3973.0,0.25,New Sale,Walk in,Bi Annual
+Apr,2023,Synergenix Labs,Company,SEO,Copywriting,Abu Dhabi,4627.0,0.25,Repeat Sale,Ads,Monthly
+Apr,2023,Stratoscope,Company,App Dev,Design,Dubai,5195.0,0.4,Repeat Sale,Organic,Quarterly
+Apr,2023,Tariq Al Zahrani,Individual,Social Media,Marketing,Al Ain,4412.0,0.3,Repeat Sale,Ads,Quarterly
+Apr,2023,Aetherion Systems,Company,Social Media,Marketing,Ajman,5440.0,0.3,Repeat Sale,Ads,Quarterly
+Apr,2023,Tariq Al Zahrani,Individual,Social Media,Marketing,Abu Dhabi,4099.0,0.3,Repeat Sale,Walk in,Annual
+Apr,2023,Sarah Ahmed,Individual,Social Media,Marketing,Dubai,2978.0,0.3,New Sale,Walk in,Monthly
+May,2023,Laila Al Mulla,Individual,Social Media,Marketing,Dubai,2689.0,0.3,Repeat Sale,Walk in,Monthly
+May,2023,Rania Omar,Individual,Ads,Marketing,Abu Dhabi,5482.0,0.25,Repeat Sale,Organic,Monthly
+May,2023,Quanta Sphere Tech,Company,App Dev,Design,Dubai,4475.0,0.4,Repeat Sale,Ads,Monthly
+May,2023,Aetherion Systems,Company,SEO,Copywriting,Abu Dhabi,5517.0,0.25,Repeat Sale,Organic,Bi Annual
+May,2023,Zephyr Industries,Company,Web Dev,Design,Abu Dhabi,4013.0,0.35,Repeat Sale,Walk in,Annual
+May,2023,Stratoscope,Company,App Dev,Design,Dubai,3518.0,0.4,New Sale,Ads,Quarterly
+May,2023,Altura Networks,Company,SEO,Copywriting,Dubai,3067.0,0.25,Repeat Sale,Walk in,Annual
+May,2023,Rania Omar,Individual,App Dev,Design,Abu Dhabi,3374.0,0.4,Repeat Sale,Organic,Monthly
+May,2023,Nexa Core,Company,SEO,Copywriting,Dubai,4925.0,0.25,New Sale,Walk in,Annual
+May,2023,Noura Rashid,Individual,Social Media,Marketing,Dubai,2945.0,0.3,New Sale,Organic,Bi Annual
+May,2023,Stratoscope,Company,Social Media,Marketing,Ajman,3440.0,0.3,Repeat Sale,Organic,Quarterly
+May,2023,Vantoro Enterprises,Company,Social Media,Marketing,Sharjah,2771.0,0.3,Repeat Sale,Organic,Quarterly
+May,2023,Zayed Al Nuaimi,Individual,Social Media,Marketing,Abu Dhabi,2837.0,0.3,Repeat Sale,Walk in,Monthly
+May,2023,Synergenix Labs,Company,Social Media,Marketing,Abu Dhabi,4942.0,0.3,Repeat Sale,Ads,Bi Annual
+May,2023,Saeed Al Saeed,Individual,Ads,Marketing,Dubai,5310.0,0.25,Repeat Sale,Organic,Annual
+May,2023,Mona Al Humaidi,Individual,Web Dev,Design,Dubai,2419.0,0.35,New Sale,Organic,Monthly
+May,2023,Octavium Digital,Company,App Dev,Design,Al Ain,3369.0,0.4,New Sale,Ads,Monthly
+May,2023,Rania Omar,Individual,Web Dev,Design,Dubai,3406.0,0.35,Repeat Sale,Organic,Annual
+May,2023,Rania Omar,Individual,App Dev,Design,Abu Dhabi,3189.0,0.4,New Sale,Organic,Annual
+May,2023,Yousuf Al Marri,Individual,Ads,Marketing,Abu Dhabi,3286.0,0.25,New Sale,Ads,Monthly
+Jun,2023,Layla Al Dhanhani,Individual,Web Dev,Design,Ajman,4390.0,0.35,New Sale,Walk in,Annual
+Jun,2023,Aetherion Systems,Company,Web Dev,Design,Sharjah,3574.0,0.35,Repeat Sale,Organic,Bi Annual
+Jun,2023,Fatima Saeed,Individual,App Dev,Design,Dubai,5328.0,0.4,New Sale,Walk in,Bi Annual
+Jun,2023,Luminex Global,Company,SEO,Copywriting,Dubai,3848.0,0.25,New Sale,Walk in,Annual
+Jun,2023,Nexa Core,Company,Ads,Marketing,Abu Dhabi,2863.0,0.25,New Sale,Walk in,Annual
+Jun,2023,Fatima Saeed,Individual,App Dev,Design,Al Ain,5052.0,0.4,New Sale,Organic,Bi Annual
+Jun,2023,Octavium Digital,Company,Social Media,Marketing,Sharjah,3141.0,0.3,Repeat Sale,Ads,Annual
+Jun,2023,Khaled Al Farsi,Individual,Web Dev,Design,Ajman,2898.0,0.35,Repeat Sale,Ads,Bi Annual
+Jun,2023,Nexa Core,Company,Web Dev,Design,Dubai,5404.0,0.35,Repeat Sale,Walk in,Quarterly
+Jun,2023,Laila Al Mulla,Individual,SEO,Copywriting,Ajman,4622.0,0.25,Repeat Sale,Ads,Quarterly
+Jun,2023,InfiNova Technologies,Company,Social Media,Marketing,Al Ain,3171.0,0.3,New Sale,Organic,Quarterly
+Jun,2023,Octavium Digital,Company,Web Dev,Design,Abu Dhabi,5328.0,0.35,Repeat Sale,Ads,Quarterly
+Jun,2023,Tariq Al Zahrani,Individual,Ads,Marketing,Dubai,2611.0,0.25,Repeat Sale,Organic,Monthly
+Jun,2023,Luminex Global,Company,SEO,Copywriting,Dubai,5613.0,0.25,Repeat Sale,Organic,Monthly
+Jun,2023,Aetherion Systems,Company,SEO,Copywriting,Abu Dhabi,2953.0,0.25,Repeat Sale,Walk in,Monthly
+Jun,2023,Noura Rashid,Individual,Web Dev,Design,Al Ain,3049.0,0.35,Repeat Sale,Walk in,Monthly
+Jun,2023,Altura Networks,Company,Social Media,Marketing,Abu Dhabi,3853.0,0.3,Repeat Sale,Ads,Monthly
+Jun,2023,Hanan Al Khatri,Individual,App Dev,Design,Ajman,5066.0,0.4,Repeat Sale,Walk in,Bi Annual
+Jun,2023,Basma Nasser,Individual,Social Media,Marketing,Sharjah,4429.0,0.3,Repeat Sale,Ads,Quarterly
+Jun,2023,Mariam Al Shamsi,Individual,Social Media,Marketing,Dubai,2663.0,0.3,Repeat Sale,Ads,Bi Annual
+Jul,2023,Aetherion Systems,Company,SEO,Copywriting,Abu Dhabi,5028.0,0.25,New Sale,Organic,Bi Annual
+Jul,2023,Hanan Al Khatri,Individual,Ads,Marketing,Abu Dhabi,5871.0,0.25,New Sale,Walk in,Annual
+Jul,2023,Vantoro Enterprises,Company,App Dev,Design,Dubai,6735.0,0.4,Repeat Sale,Organic,Bi Annual
+Jul,2023,Aetherion Systems,Company,App Dev,Design,Sharjah,7042.0,0.4,Repeat Sale,Walk in,Monthly
+Jul,2023,Omar Ali,Individual,Social Media,Marketing,Dubai,6997.0,0.3,Repeat Sale,Organic,Bi Annual
+Jul,2023,Altura Networks,Company,SEO,Copywriting,Abu Dhabi,6913.0,0.25,New Sale,Ads,Quarterly
+Jul,2023,Vantoro Enterprises,Company,SEO,Copywriting,Al Ain,6768.0,0.25,Repeat Sale,Organic,Annual
+Jul,2023,Hanan Al Khatri,Individual,SEO,Copywriting,Sharjah,5624.0,0.25,Repeat Sale,Organic,Annual
+Jul,2023,Hanan Al Khatri,Individual,App Dev,Design,Abu Dhabi,7247.0,0.4,Repeat Sale,Walk in,Annual
+Jul,2023,Fatima Saeed,Individual,Ads,Marketing,Dubai,7252.0,0.25,New Sale,Organic,Annual
+Jul,2023,Synergenix Labs,Company,App Dev,Design,Sharjah,5980.0,0.4,New Sale,Ads,Monthly
+Jul,2023,Zayed Al Nuaimi,Individual,Web Dev,Design,Al Ain,7259.0,0.35,Repeat Sale,Walk in,Quarterly
+Jul,2023,Zayed Al Nuaimi,Individual,Web Dev,Design,Abu Dhabi,6125.0,0.35,Repeat Sale,Ads,Bi Annual
+Jul,2023,Stratoscope,Company,Ads,Marketing,Al Ain,5780.0,0.25,Repeat Sale,Walk in,Bi Annual
+Jul,2023,Vantoro Enterprises,Company,App Dev,Design,Ajman,5777.0,0.4,Repeat Sale,Organic,Bi Annual
+Jul,2023,InfiNova Technologies,Company,Ads,Marketing,Ajman,7325.0,0.25,Repeat Sale,Walk in,Monthly
+Jul,2023,Vantoro Enterprises,Company,Ads,Marketing,Abu Dhabi,7139.0,0.25,New Sale,Organic,Quarterly
+Jul,2023,Jamal Al Maktoum,Individual,Social Media,Marketing,Ajman,5676.0,0.3,New Sale,Walk in,Quarterly
+Jul,2023,Rania Omar,Individual,Social Media,Marketing,Abu Dhabi,6440.0,0.3,Repeat Sale,Ads,Quarterly
+Jul,2023,Omar Ali,Individual,SEO,Copywriting,Ajman,6331.0,0.25,Repeat Sale,Organic,Quarterly
+Aug,2023,Quanta Sphere Tech,Company,Web Dev,Design,Abu Dhabi,7410.0,0.35,New Sale,Walk in,Annual
+Aug,2023,Mona Al Humaidi,Individual,SEO,Copywriting,Abu Dhabi,6926.0,0.25,New Sale,Organic,Bi Annual
+Aug,2023,Ahmed Yousuf,Individual,Web Dev,Design,Abu Dhabi,6805.0,0.35,Repeat Sale,Walk in,Annual
+Aug,2023,InfiNova Technologies,Company,Ads,Marketing,Ajman,7689.0,0.25,New Sale,Walk in,Quarterly
+Aug,2023,Basma Nasser,Individual,SEO,Copywriting,Sharjah,5830.0,0.25,Repeat Sale,Ads,Bi Annual
+Aug,2023,Ahmed Yousuf,Individual,SEO,Copywriting,Ajman,6799.0,0.25,Repeat Sale,Ads,Monthly
+Aug,2023,Mariam Al Shamsi,Individual,SEO,Copywriting,Abu Dhabi,5750.0,0.25,Repeat Sale,Walk in,Annual
+Aug,2023,Luminex Global,Company,SEO,Copywriting,Ajman,7447.0,0.25,Repeat Sale,Walk in,Monthly
+Aug,2023,Stratoscope,Company,SEO,Copywriting,Al Ain,7243.0,0.25,Repeat Sale,Walk in,Monthly
+Aug,2023,Layla Al Dhanhani,Individual,Ads,Marketing,Al Ain,5541.0,0.25,New Sale,Ads,Quarterly
+Aug,2023,Rania Omar,Individual,Ads,Marketing,Al Ain,6457.0,0.25,Repeat Sale,Walk in,Quarterly
+Aug,2023,InfiNova Technologies,Company,Web Dev,Design,Al Ain,5696.0,0.35,Repeat Sale,Organic,Monthly
+Aug,2023,Fatima Saeed,Individual,App Dev,Design,Sharjah,5218.0,0.4,Repeat Sale,Organic,Bi Annual
+Aug,2023,Stratoscope,Company,Web Dev,Design,Abu Dhabi,7285.0,0.35,Repeat Sale,Ads,Monthly
+Aug,2023,Quanta Sphere Tech,Company,SEO,Copywriting,Abu Dhabi,7369.0,0.25,Repeat Sale,Walk in,Bi Annual
+Aug,2023,Luminex Global,Company,SEO,Copywriting,Ajman,5698.0,0.25,Repeat Sale,Organic,Monthly
+Aug,2023,Zephyr Industries,Company,Social Media,Marketing,Dubai,5938.0,0.3,Repeat Sale,Walk in,Quarterly
+Aug,2023,Jamal Al Maktoum,Individual,SEO,Copywriting,Abu Dhabi,6844.0,0.25,Repeat Sale,Organic,Monthly
+Aug,2023,Omar Ali,Individual,SEO,Copywriting,Sharjah,6002.0,0.25,Repeat Sale,Ads,Monthly
+Aug,2023,Altura Networks,Company,SEO,Copywriting,Dubai,6511.0,0.25,Repeat Sale,Ads,Quarterly
+Sep,2023,Ahmed Yousuf,Individual,Ads,Marketing,Abu Dhabi,5417.0,0.25,Repeat Sale,Ads,Quarterly
+Sep,2023,Rania Omar,Individual,Social Media,Marketing,Sharjah,7304.0,0.3,Repeat Sale,Organic,Annual
+Sep,2023,Rania Omar,Individual,App Dev,Design,Abu Dhabi,7582.0,0.4,Repeat Sale,Organic,Quarterly
+Sep,2023,Mariam Al Shamsi,Individual,Ads,Marketing,Ajman,6696.0,0.25,New Sale,Ads,Quarterly
+Sep,2023,Altura Networks,Company,SEO,Copywriting,Abu Dhabi,6406.0,0.25,Repeat Sale,Ads,Annual
+Sep,2023,Zephyr Industries,Company,Ads,Marketing,Sharjah,7205.0,0.25,New Sale,Ads,Quarterly
+Sep,2023,Vantoro Enterprises,Company,Web Dev,Design,Sharjah,7727.0,0.35,Repeat Sale,Organic,Quarterly
+Sep,2023,Laila Al Mulla,Individual,Social Media,Marketing,Sharjah,5416.0,0.3,Repeat Sale,Ads,Annual
+Sep,2023,Luminex Global,Company,Ads,Marketing,Abu Dhabi,7738.0,0.25,Repeat Sale,Ads,Quarterly
+Sep,2023,Layla Al Dhanhani,Individual,Web Dev,Design,Dubai,7487.0,0.35,Repeat Sale,Organic,Annual
+Sep,2023,Rania Omar,Individual,Social Media,Marketing,Dubai,6985.0,0.3,New Sale,Walk in,Quarterly
+Sep,2023,Laila Al Mulla,Individual,SEO,Copywriting,Abu Dhabi,7326.0,0.25,New Sale,Walk in,Monthly
+Sep,2023,InfiNova Technologies,Company,SEO,Copywriting,Abu Dhabi,6465.0,0.25,Repeat Sale,Walk in,Quarterly
+Sep,2023,Nexa Core,Company,Ads,Marketing,Al Ain,6603.0,0.25,New Sale,Organic,Bi Annual
+Sep,2023,Synergenix Labs,Company,Web Dev,Design,Ajman,5676.0,0.35,New Sale,Ads,Annual
+Sep,2023,Basma Nasser,Individual,Ads,Marketing,Dubai,6258.0,0.25,New Sale,Ads,Monthly
+Sep,2023,Quanta Sphere Tech,Company,SEO,Copywriting,Abu Dhabi,7890.0,0.25,Repeat Sale,Organic,Monthly
+Sep,2023,Octavium Digital,Company,Ads,Marketing,Ajman,7460.0,0.25,New Sale,Ads,Quarterly
+Sep,2023,Fatima Saeed,Individual,Ads,Marketing,Ajman,6782.0,0.25,Repeat Sale,Ads,Annual
+Sep,2023,Vantoro Enterprises,Company,Ads,Marketing,Sharjah,7220.0,0.25,Repeat Sale,Organic,Monthly
+Oct,2023,Luminex Global,Company,Ads,Marketing,Dubai,6768.0,0.25,Repeat Sale,Organic,Monthly
+Oct,2023,Nexa Core,Company,SEO,Copywriting,Abu Dhabi,6336.0,0.25,New Sale,Ads,Quarterly
+Oct,2023,Rania Omar,Individual,Ads,Marketing,Dubai,6188.0,0.25,Repeat Sale,Organic,Monthly
+Oct,2023,Yousuf Al Marri,Individual,Web Dev,Design,Abu Dhabi,5157.0,0.35,New Sale,Walk in,Monthly
+Oct,2023,Zayed Al Nuaimi,Individual,SEO,Copywriting,Al Ain,6650.0,0.25,Repeat Sale,Walk in,Quarterly
+Oct,2023,Aetherion Systems,Company,SEO,Copywriting,Sharjah,5451.0,0.25,Repeat Sale,Organic,Annual
+Oct,2023,Saeed Al Saeed,Individual,SEO,Copywriting,Dubai,7652.0,0.25,New Sale,Organic,Annual
+Oct,2023,Saeed Al Saeed,Individual,App Dev,Design,Ajman,6212.0,0.4,Repeat Sale,Walk in,Bi Annual
+Oct,2023,Octavium Digital,Company,Social Media,Marketing,Abu Dhabi,6510.0,0.3,New Sale,Walk in,Bi Annual
+Oct,2023,Tariq Al Zahrani,Individual,SEO,Copywriting,Al Ain,6658.0,0.25,Repeat Sale,Organic,Quarterly
+Oct,2023,Saeed Al Saeed,Individual,Ads,Marketing,Ajman,5881.0,0.25,New Sale,Ads,Annual
+Oct,2023,Octavium Digital,Company,Ads,Marketing,Dubai,5401.0,0.25,New Sale,Ads,Quarterly
+Oct,2023,Stratoscope,Company,App Dev,Design,Al Ain,5510.0,0.4,New Sale,Walk in,Annual
+Oct,2023,Ahmed Yousuf,Individual,Social Media,Marketing,Al Ain,5127.0,0.3,Repeat Sale,Walk in,Annual
+Oct,2023,Stratoscope,Company,Social Media,Marketing,Dubai,6832.0,0.3,New Sale,Ads,Monthly
+Oct,2023,Quanta Sphere Tech,Company,Social Media,Marketing,Dubai,7570.0,0.3,Repeat Sale,Walk in,Quarterly
+Oct,2023,InfiNova Technologies,Company,Social Media,Marketing,Dubai,5494.0,0.3,Repeat Sale,Walk in,Bi Annual
+Oct,2023,Saeed Al Saeed,Individual,Web Dev,Design,Abu Dhabi,6452.0,0.35,Repeat Sale,Ads,Bi Annual
+Oct,2023,Aetherion Systems,Company,Social Media,Marketing,Abu Dhabi,5529.0,0.3,New Sale,Organic,Quarterly
+Oct,2023,Layla Al Dhanhani,Individual,SEO,Copywriting,Dubai,6344.0,0.25,Repeat Sale,Ads,Bi Annual
+Nov,2023,Octavium Digital,Company,App Dev,Design,Abu Dhabi,5826.0,0.4,Repeat Sale,Walk in,Annual
+Nov,2023,Zephyr Industries,Company,App Dev,Design,Sharjah,5965.0,0.4,Repeat Sale,Organic,Annual
+Nov,2023,Octavium Digital,Company,Web Dev,Design,Abu Dhabi,7621.0,0.35,Repeat Sale,Organic,Bi Annual
+Nov,2023,InfiNova Technologies,Company,Ads,Marketing,Abu Dhabi,6591.0,0.25,New Sale,Organic,Bi Annual
+Nov,2023,Rania Omar,Individual,Web Dev,Design,Ajman,5713.0,0.35,Repeat Sale,Walk in,Monthly
+Nov,2023,Synergenix Labs,Company,SEO,Copywriting,Dubai,7690.0,0.25,Repeat Sale,Organic,Monthly
+Nov,2023,Jamal Al Maktoum,Individual,Social Media,Marketing,Sharjah,6501.0,0.3,Repeat Sale,Ads,Monthly
+Nov,2023,Noura Rashid,Individual,App Dev,Design,Abu Dhabi,7420.0,0.4,Repeat Sale,Walk in,Bi Annual
+Nov,2023,Omar Ali,Individual,App Dev,Design,Dubai,7019.0,0.4,Repeat Sale,Organic,Annual
+Nov,2023,Sarah Ahmed,Individual,SEO,Copywriting,Dubai,5842.0,0.25,Repeat Sale,Ads,Quarterly
+Nov,2023,Basma Nasser,Individual,SEO,Copywriting,Dubai,5206.0,0.25,Repeat Sale,Ads,Bi Annual
+Nov,2023,Quanta Sphere Tech,Company,Web Dev,Design,Dubai,5668.0,0.35,New Sale,Organic,Annual
+Nov,2023,Vantoro Enterprises,Company,Web Dev,Design,Dubai,6568.0,0.35,Repeat Sale,Organic,Bi Annual
+Nov,2023,Fatima Saeed,Individual,Ads,Marketing,Abu Dhabi,6041.0,0.25,New Sale,Ads,Quarterly
+Nov,2023,Fatima Saeed,Individual,Social Media,Marketing,Abu Dhabi,5552.0,0.3,Repeat Sale,Organic,Bi Annual
+Nov,2023,Altura Networks,Company,Ads,Marketing,Sharjah,5794.0,0.25,Repeat Sale,Ads,Quarterly
+Nov,2023,Omar Ali,Individual,Social Media,Marketing,Ajman,6214.0,0.3,Repeat Sale,Organic,Monthly
+Nov,2023,Synergenix Labs,Company,Ads,Marketing,Abu Dhabi,7505.0,0.25,Repeat Sale,Organic,Monthly
+Nov,2023,Solvium Solutions,Company,SEO,Copywriting,Dubai,7453.0,0.25,New Sale,Ads,Bi Annual
+Nov,2023,Layla Al Dhanhani,Individual,SEO,Copywriting,Sharjah,5939.0,0.25,New Sale,Ads,Monthly
+Dec,2023,Vantoro Enterprises,Company,Ads,Marketing,Dubai,5833.0,0.25,Repeat Sale,Walk in,Annual
+Dec,2023,Omar Ali,Individual,Web Dev,Design,Sharjah,6702.0,0.35,Repeat Sale,Walk in,Bi Annual
+Dec,2023,Zayed Al Nuaimi,Individual,Ads,Marketing,Ajman,7465.0,0.25,Repeat Sale,Walk in,Bi Annual
+Dec,2023,Mona Al Humaidi,Individual,App Dev,Design,Sharjah,6348.0,0.4,New Sale,Ads,Annual
+Dec,2023,Saeed Al Saeed,Individual,SEO,Copywriting,Abu Dhabi,6799.0,0.25,Repeat Sale,Walk in,Quarterly
+Dec,2023,Hanan Al Khatri,Individual,Ads,Marketing,Abu Dhabi,7574.0,0.25,New Sale,Ads,Monthly
+Dec,2023,Mariam Al Shamsi,Individual,Web Dev,Design,Al Ain,6208.0,0.35,Repeat Sale,Walk in,Annual
+Dec,2023,Zephyr Industries,Company,Ads,Marketing,Abu Dhabi,7689.0,0.25,Repeat Sale,Ads,Monthly
+Dec,2023,Stratoscope,Company,App Dev,Design,Dubai,6062.0,0.4,New Sale,Walk in,Annual
+Dec,2023,Nexa Core,Company,Ads,Marketing,Dubai,6387.0,0.25,New Sale,Organic,Monthly
+Dec,2023,Stratoscope,Company,SEO,Copywriting,Sharjah,5222.0,0.25,New Sale,Walk in,Quarterly
+Dec,2023,Nexa Core,Company,SEO,Copywriting,Sharjah,5570.0,0.25,Repeat Sale,Ads,Bi Annual
+Dec,2023,Sarah Ahmed,Individual,App Dev,Design,Abu Dhabi,7799.0,0.4,New Sale,Ads,Monthly
+Dec,2023,Quanta Sphere Tech,Company,Social Media,Marketing,Al Ain,7853.0,0.3,Repeat Sale,Organic,Annual
+Dec,2023,Mariam Al Shamsi,Individual,Web Dev,Design,Dubai,6776.0,0.35,New Sale,Walk in,Quarterly
+Dec,2023,Sami Al Shamsi,Individual,SEO,Copywriting,Dubai,7306.0,0.25,Repeat Sale,Walk in,Monthly
+Dec,2023,Saeed Al Saeed,Individual,Social Media,Marketing,Ajman,5882.0,0.3,New Sale,Walk in,Monthly
+Dec,2023,Zephyr Industries,Company,Web Dev,Design,Dubai,6336.0,0.35,New Sale,Ads,Bi Annual
+Dec,2023,Zephyr Industries,Company,Web Dev,Design,Al Ain,7642.0,0.35,New Sale,Organic,Quarterly
+Dec,2023,Luminex Global,Company,Ads,Marketing,Dubai,5260.0,0.25,Repeat Sale,Ads,Bi Annual
+Jan,2024,Octavium Digital,Company,Web Dev,Design,Abu Dhabi,5603.0,0.35,New Sale,Walk in,Quarterly
+Jan,2024,Noura Rashid,Individual,SEO,Copywriting,Ajman,4422.0,0.25,Repeat Sale,Walk in,Bi Annual
+Jan,2024,Fatima Saeed,Individual,SEO,Copywriting,Dubai,5895.0,0.25,New Sale,Walk in,Bi Annual
+Jan,2024,Octavium Digital,Company,SEO,Copywriting,Al Ain,4287.0,0.25,New Sale,Ads,Bi Annual
+Jan,2024,Ahmed Yousuf,Individual,App Dev,Design,Sharjah,4092.0,0.4,Repeat Sale,Organic,Bi Annual
+Jan,2024,Stratoscope,Company,Ads,Marketing,Dubai,4004.0,0.25,Repeat Sale,Ads,Monthly
+Jan,2024,Altura Networks,Company,Social Media,Marketing,Dubai,5209.0,0.3,New Sale,Organic,Monthly
+Jan,2024,Zephyr Industries,Company,SEO,Copywriting,Abu Dhabi,6903.0,0.25,New Sale,Organic,Bi Annual
+Jan,2024,Altura Networks,Company,App Dev,Design,Ajman,6945.0,0.4,Repeat Sale,Walk in,Annual
+Jan,2024,Luminex Global,Company,Ads,Marketing,Dubai,6330.0,0.25,Repeat Sale,Walk in,Monthly
+Jan,2024,Hanan Al Khatri,Individual,Web Dev,Design,Al Ain,3203.0,0.35,Repeat Sale,Walk in,Monthly
+Jan,2024,Basma Nasser,Individual,Ads,Marketing,Dubai,6850.0,0.25,Repeat Sale,Walk in,Bi Annual
+Jan,2024,Vantoro Enterprises,Company,Ads,Marketing,Al Ain,5799.0,0.25,New Sale,Ads,Bi Annual
+Jan,2024,Noura Rashid,Individual,Ads,Marketing,Dubai,5999.0,0.25,New Sale,Ads,Monthly
+Jan,2024,Sami Al Shamsi,Individual,SEO,Copywriting,Dubai,5251.0,0.25,Repeat Sale,Organic,Monthly
+Jan,2024,Solvium Solutions,Company,Ads,Marketing,Abu Dhabi,4086.0,0.25,Repeat Sale,Walk in,Monthly
+Jan,2024,Hanan Al Khatri,Individual,Web Dev,Design,Abu Dhabi,6257.0,0.35,New Sale,Ads,Monthly
+Jan,2024,Omar Ali,Individual,Ads,Marketing,Ajman,4346.0,0.25,Repeat Sale,Walk in,Bi Annual
+Jan,2024,Yousuf Al Marri,Individual,SEO,Copywriting,Al Ain,5588.0,0.25,New Sale,Organic,Quarterly
+Jan,2024,Nexa Core,Company,SEO,Copywriting,Dubai,3328.0,0.25,New Sale,Ads,Monthly
+Feb,2024,Saeed Al Saeed,Individual,SEO,Copywriting,Sharjah,3708.0,0.25,New Sale,Walk in,Quarterly
+Feb,2024,Altura Networks,Company,Social Media,Marketing,Dubai,3786.0,0.3,New Sale,Organic,Bi Annual
+Feb,2024,InfiNova Technologies,Company,Social Media,Marketing,Dubai,4238.0,0.3,Repeat Sale,Walk in,Annual
+Feb,2024,Rania Omar,Individual,SEO,Copywriting,Ajman,2573.0,0.25,New Sale,Walk in,Quarterly
+Feb,2024,Octavium Digital,Company,Ads,Marketing,Al Ain,6194.0,0.25,Repeat Sale,Walk in,Bi Annual
+Feb,2024,Vantoro Enterprises,Company,App Dev,Design,Ajman,6167.0,0.4,Repeat Sale,Organic,Monthly
+Feb,2024,Laila Al Mulla,Individual,Social Media,Marketing,Abu Dhabi,2704.0,0.3,Repeat Sale,Walk in,Bi Annual
+Feb,2024,Zayed Al Nuaimi,Individual,SEO,Copywriting,Ajman,7145.0,0.25,New Sale,Ads,Monthly
+Feb,2024,Yousuf Al Marri,Individual,SEO,Copywriting,Abu Dhabi,6330.0,0.25,Repeat Sale,Walk in,Monthly
+Feb,2024,Stratoscope,Company,Ads,Marketing,Ajman,6448.0,0.25,Repeat Sale,Organic,Monthly
+Feb,2024,Octavium Digital,Company,App Dev,Design,Dubai,7181.0,0.4,Repeat Sale,Walk in,Bi Annual
+Feb,2024,Luminex Global,Company,SEO,Copywriting,Abu Dhabi,4720.0,0.25,Repeat Sale,Organic,Bi Annual
+Feb,2024,Vantoro Enterprises,Company,Web Dev,Design,Sharjah,3152.0,0.35,New Sale,Walk in,Monthly
+Feb,2024,Sarah Ahmed,Individual,Ads,Marketing,Abu Dhabi,4873.0,0.25,Repeat Sale,Organic,Monthly
+Feb,2024,Aetherion Systems,Company,Social Media,Marketing,Dubai,6525.0,0.3,Repeat Sale,Ads,Quarterly
+Feb,2024,Zayed Al Nuaimi,Individual,App Dev,Design,Dubai,3926.0,0.4,Repeat Sale,Walk in,Bi Annual
+Feb,2024,Aetherion Systems,Company,Web Dev,Design,Dubai,5071.0,0.35,Repeat Sale,Ads,Monthly
+Feb,2024,Ali Juma,Individual,Ads,Marketing,Sharjah,3656.0,0.25,New Sale,Organic,Bi Annual
+Feb,2024,Khaled Al Farsi,Individual,Web Dev,Design,Sharjah,3210.0,0.35,Repeat Sale,Ads,Bi Annual
+Feb,2024,Mona Al Humaidi,Individual,Web Dev,Design,Ajman,6265.0,0.35,New Sale,Walk in,Bi Annual
+Mar,2024,Stratoscope,Company,Web Dev,Design,Sharjah,2473.0,0.35,Repeat Sale,Ads,Quarterly
+Mar,2024,Sarah Ahmed,Individual,Ads,Marketing,Ajman,3162.0,0.25,New Sale,Walk in,Annual
+Mar,2024,Aetherion Systems,Company,Web Dev,Design,Ajman,6880.0,0.35,New Sale,Organic,Bi Annual
+Mar,2024,Omar Ali,Individual,App Dev,Design,Dubai,5132.0,0.4,Repeat Sale,Organic,Bi Annual
+Mar,2024,Mona Al Humaidi,Individual,App Dev,Design,Sharjah,6788.0,0.4,Repeat Sale,Walk in,Bi Annual
+Mar,2024,Solvium Solutions,Company,Web Dev,Design,Dubai,6345.0,0.35,Repeat Sale,Walk in,Quarterly
+Mar,2024,Altura Networks,Company,SEO,Copywriting,Abu Dhabi,2868.0,0.25,Repeat Sale,Walk in,Annual
+Mar,2024,Vantoro Enterprises,Company,Ads,Marketing,Al Ain,5442.0,0.25,New Sale,Walk in,Monthly
+Mar,2024,InfiNova Technologies,Company,Social Media,Marketing,Abu Dhabi,5325.0,0.3,Repeat Sale,Ads,Annual
+Mar,2024,Laila Al Mulla,Individual,SEO,Copywriting,Sharjah,3907.0,0.25,New Sale,Organic,Bi Annual
+Mar,2024,Hanan Al Khatri,Individual,Social Media,Marketing,Abu Dhabi,4765.0,0.3,New Sale,Organic,Annual
+Mar,2024,Zephyr Industries,Company,App Dev,Design,Ajman,6030.0,0.4,Repeat Sale,Organic,Annual
+Mar,2024,Laila Al Mulla,Individual,App Dev,Design,Abu Dhabi,5796.0,0.4,New Sale,Walk in,Bi Annual
+Mar,2024,Layla Al Dhanhani,Individual,App Dev,Design,Dubai,3903.0,0.4,New Sale,Ads,Bi Annual
+Mar,2024,Synergenix Labs,Company,SEO,Copywriting,Abu Dhabi,6933.0,0.25,Repeat Sale,Ads,Quarterly
+Mar,2024,Zephyr Industries,Company,SEO,Copywriting,Dubai,3446.0,0.25,Repeat Sale,Ads,Bi Annual
+Mar,2024,Mariam Al Shamsi,Individual,Web Dev,Design,Dubai,3227.0,0.35,Repeat Sale,Organic,Bi Annual
+Mar,2024,Noura Rashid,Individual,Web Dev,Design,Abu Dhabi,5167.0,0.35,New Sale,Walk in,Quarterly
+Mar,2024,Saeed Al Saeed,Individual,App Dev,Design,Ajman,7081.0,0.4,New Sale,Walk in,Monthly
+Mar,2024,Vantoro Enterprises,Company,Web Dev,Design,Abu Dhabi,6006.0,0.35,New Sale,Walk in,Quarterly
+Apr,2024,Rania Omar,Individual,App Dev,Design,Abu Dhabi,7023.0,0.4,New Sale,Walk in,Monthly
+Apr,2024,Aetherion Systems,Company,Social Media,Marketing,Abu Dhabi,2871.0,0.3,Repeat Sale,Walk in,Quarterly
+Apr,2024,Omar Ali,Individual,App Dev,Design,Al Ain,6127.0,0.4,Repeat Sale,Walk in,Monthly
+Apr,2024,Laila Al Mulla,Individual,Web Dev,Design,Dubai,3894.0,0.35,New Sale,Organic,Bi Annual
+Apr,2024,Octavium Digital,Company,SEO,Copywriting,Dubai,6449.0,0.25,Repeat Sale,Walk in,Monthly
+Apr,2024,Solvium Solutions,Company,App Dev,Design,Sharjah,4976.0,0.4,New Sale,Ads,Bi Annual
+Apr,2024,Synergenix Labs,Company,Ads,Marketing,Al Ain,5171.0,0.25,Repeat Sale,Walk in,Quarterly
+Apr,2024,Saeed Al Saeed,Individual,SEO,Copywriting,Abu Dhabi,6231.0,0.25,Repeat Sale,Ads,Monthly
+Apr,2024,Rania Omar,Individual,Web Dev,Design,Ajman,4838.0,0.35,Repeat Sale,Walk in,Quarterly
+Apr,2024,Stratoscope,Company,App Dev,Design,Ajman,4855.0,0.4,Repeat Sale,Walk in,Annual
+Apr,2024,Luminex Global,Company,SEO,Copywriting,Abu Dhabi,4488.0,0.25,Repeat Sale,Organic,Monthly
+Apr,2024,Zephyr Industries,Company,Web Dev,Design,Abu Dhabi,3207.0,0.35,New Sale,Organic,Annual
+Apr,2024,InfiNova Technologies,Company,Ads,Marketing,Al Ain,5536.0,0.25,New Sale,Walk in,Bi Annual
+Apr,2024,Omar Ali,Individual,App Dev,Design,Dubai,3567.0,0.4,Repeat Sale,Organic,Monthly
+Apr,2024,Khaled Al Farsi,Individual,Social Media,Marketing,Dubai,6891.0,0.3,Repeat Sale,Organic,Annual
+Apr,2024,Tariq Al Zahrani,Individual,Web Dev,Design,Dubai,7424.0,0.35,Repeat Sale,Walk in,Monthly
+Apr,2024,Sami Al Shamsi,Individual,App Dev,Design,Al Ain,7390.0,0.4,New Sale,Organic,Monthly
+Apr,2024,InfiNova Technologies,Company,App Dev,Design,Ajman,6058.0,0.4,Repeat Sale,Walk in,Monthly
+Apr,2024,Stratoscope,Company,Web Dev,Design,Abu Dhabi,4466.0,0.35,Repeat Sale,Organic,Bi Annual
+Apr,2024,Jamal Al Maktoum,Individual,SEO,Copywriting,Abu Dhabi,2457.0,0.25,New Sale,Organic,Annual
+May,2024,Vantoro Enterprises,Company,SEO,Copywriting,Abu Dhabi,2645.0,0.25,Repeat Sale,Organic,Quarterly
+May,2024,Fatima Saeed,Individual,Web Dev,Design,Al Ain,7168.0,0.35,Repeat Sale,Organic,Monthly
+May,2024,Omar Ali,Individual,Ads,Marketing,Sharjah,3643.0,0.25,Repeat Sale,Walk in,Annual
+May,2024,Vantoro Enterprises,Company,SEO,Copywriting,Dubai,7166.0,0.25,Repeat Sale,Organic,Annual
+May,2024,Mona Al Humaidi,Individual,Web Dev,Design,Al Ain,5324.0,0.35,New Sale,Organic,Bi Annual
+May,2024,Octavium Digital,Company,Ads,Marketing,Abu Dhabi,5233.0,0.25,Repeat Sale,Walk in,Quarterly
+May,2024,Hanan Al Khatri,Individual,SEO,Copywriting,Ajman,5064.0,0.25,New Sale,Walk in,Monthly
+May,2024,Synergenix Labs,Company,Web Dev,Design,Abu Dhabi,7419.0,0.35,Repeat Sale,Ads,Annual
+May,2024,Aetherion Systems,Company,App Dev,Design,Dubai,5511.0,0.4,Repeat Sale,Organic,Annual
+May,2024,Khaled Al Farsi,Individual,Social Media,Marketing,Dubai,3786.0,0.3,Repeat Sale,Organic,Annual
+May,2024,Fatima Saeed,Individual,App Dev,Design,Abu Dhabi,3218.0,0.4,Repeat Sale,Walk in,Monthly
+May,2024,Sarah Ahmed,Individual,Social Media,Marketing,Ajman,3555.0,0.3,New Sale,Organic,Annual
+May,2024,Solvium Solutions,Company,App Dev,Design,Dubai,4229.0,0.4,Repeat Sale,Walk in,Annual
+May,2024,Vantoro Enterprises,Company,Ads,Marketing,Al Ain,6036.0,0.25,New Sale,Ads,Annual
+May,2024,Aetherion Systems,Company,Ads,Marketing,Dubai,3015.0,0.25,Repeat Sale,Organic,Monthly
+May,2024,Mona Al Humaidi,Individual,Social Media,Marketing,Ajman,2982.0,0.3,Repeat Sale,Ads,Quarterly
+May,2024,Nexa Core,Company,SEO,Copywriting,Ajman,4222.0,0.25,Repeat Sale,Ads,Quarterly
+May,2024,Zayed Al Nuaimi,Individual,Social Media,Marketing,Ajman,3040.0,0.3,Repeat Sale,Ads,Monthly
+May,2024,Zephyr Industries,Company,SEO,Copywriting,Dubai,6408.0,0.25,Repeat Sale,Organic,Annual
+May,2024,Mariam Al Shamsi,Individual,Ads,Marketing,Dubai,6982.0,0.25,Repeat Sale,Organic,Annual
+Jun,2024,Basma Nasser,Individual,SEO,Copywriting,Ajman,5225.0,0.25,Repeat Sale,Walk in,Annual
+Jun,2024,Ali Juma,Individual,App Dev,Design,Sharjah,6679.0,0.4,New Sale,Walk in,Quarterly
+Jun,2024,Aetherion Systems,Company,Social Media,Marketing,Dubai,6683.0,0.3,New Sale,Ads,Annual
+Jun,2024,Mariam Al Shamsi,Individual,SEO,Copywriting,Dubai,7372.0,0.25,Repeat Sale,Ads,Monthly
+Jun,2024,InfiNova Technologies,Company,Social Media,Marketing,Dubai,6231.0,0.3,Repeat Sale,Ads,Monthly
+Jun,2024,Zayed Al Nuaimi,Individual,Web Dev,Design,Dubai,2977.0,0.35,Repeat Sale,Walk in,Bi Annual
+Jun,2024,Luminex Global,Company,Ads,Marketing,Sharjah,4253.0,0.25,New Sale,Organic,Annual
+Jun,2024,InfiNova Technologies,Company,SEO,Copywriting,Abu Dhabi,4957.0,0.25,Repeat Sale,Ads,Annual
+Jun,2024,Octavium Digital,Company,Ads,Marketing,Dubai,6527.0,0.25,Repeat Sale,Organic,Quarterly
+Jun,2024,Mariam Al Shamsi,Individual,App Dev,Design,Dubai,7304.0,0.4,Repeat Sale,Organic,Monthly
+Jun,2024,Octavium Digital,Company,Ads,Marketing,Abu Dhabi,3467.0,0.25,Repeat Sale,Organic,Bi Annual
+Jun,2024,Aetherion Systems,Company,App Dev,Design,Dubai,7337.0,0.4,New Sale,Walk in,Monthly
+Jun,2024,Luminex Global,Company,Ads,Marketing,Dubai,3007.0,0.25,Repeat Sale,Walk in,Bi Annual
+Jun,2024,Quanta Sphere Tech,Company,Web Dev,Design,Al Ain,6967.0,0.35,New Sale,Organic,Quarterly
+Jun,2024,Basma Nasser,Individual,App Dev,Design,Abu Dhabi,3579.0,0.4,Repeat Sale,Walk in,Monthly
+Jun,2024,Hanan Al Khatri,Individual,Social Media,Marketing,Ajman,5956.0,0.3,Repeat Sale,Ads,Bi Annual
+Jun,2024,Laila Al Mulla,Individual,SEO,Copywriting,Al Ain,4703.0,0.25,Repeat Sale,Walk in,Bi Annual
+Jun,2024,Tariq Al Zahrani,Individual,SEO,Copywriting,Ajman,6947.0,0.25,New Sale,Organic,Annual
+Jun,2024,Luminex Global,Company,Ads,Marketing,Abu Dhabi,3550.0,0.25,New Sale,Walk in,Annual
+Jun,2024,Mona Al Humaidi,Individual,SEO,Copywriting,Dubai,5877.0,0.25,Repeat Sale,Ads,Quarterly
+Jul,2024,Zephyr Industries,Company,Ads,Marketing,Sharjah,12139.0,0.25,Repeat Sale,Organic,Bi Annual
+Jul,2024,Synergenix Labs,Company,App Dev,Design,Ajman,11449.0,0.4,New Sale,Organic,Bi Annual
+Jul,2024,Solvium Solutions,Company,SEO,Copywriting,Abu Dhabi,8143.0,0.25,Repeat Sale,Walk in,Annual
+Jul,2024,Altura Networks,Company,Social Media,Marketing,Abu Dhabi,11800.0,0.3,Repeat Sale,Walk in,Quarterly
+Jul,2024,Hanan Al Khatri,Individual,Social Media,Marketing,Dubai,9912.0,0.3,New Sale,Walk in,Monthly
+Jul,2024,Solvium Solutions,Company,SEO,Copywriting,Ajman,8622.0,0.25,New Sale,Organic,Quarterly
+Jul,2024,Yousuf Al Marri,Individual,SEO,Copywriting,Abu Dhabi,12171.0,0.25,Repeat Sale,Organic,Quarterly
+Jul,2024,Rania Omar,Individual,SEO,Copywriting,Dubai,10535.0,0.25,Repeat Sale,Walk in,Quarterly
+Jul,2024,Zephyr Industries,Company,Ads,Marketing,Ajman,7953.0,0.25,Repeat Sale,Ads,Annual
+Jul,2024,Stratoscope,Company,SEO,Copywriting,Sharjah,10930.0,0.25,New Sale,Walk in,Quarterly
+Jul,2024,Fatima Saeed,Individual,App Dev,Design,Al Ain,11500.0,0.4,Repeat Sale,Ads,Annual
+Jul,2024,Yousuf Al Marri,Individual,SEO,Copywriting,Dubai,9291.0,0.25,New Sale,Organic,Annual
+Jul,2024,Jamal Al Maktoum,Individual,App Dev,Design,Abu Dhabi,10444.0,0.4,Repeat Sale,Organic,Annual
+Jul,2024,Noura Rashid,Individual,Web Dev,Design,Sharjah,9128.0,0.35,New Sale,Organic,Monthly
+Jul,2024,Nexa Core,Company,Social Media,Marketing,Dubai,12227.0,0.3,Repeat Sale,Walk in,Monthly
+Jul,2024,Fatima Saeed,Individual,SEO,Copywriting,Al Ain,11606.0,0.25,New Sale,Walk in,Annual
+Jul,2024,Fatima Saeed,Individual,Web Dev,Design,Al Ain,8223.0,0.35,Repeat Sale,Ads,Bi Annual
+Jul,2024,Altura Networks,Company,Social Media,Marketing,Abu Dhabi,8418.0,0.3,Repeat Sale,Ads,Annual
+Jul,2024,Synergenix Labs,Company,SEO,Copywriting,Ajman,12124.0,0.25,Repeat Sale,Ads,Monthly
+Jul,2024,Layla Al Dhanhani,Individual,Web Dev,Design,Sharjah,8914.0,0.35,Repeat Sale,Organic,Bi Annual
+Aug,2024,Rania Omar,Individual,SEO,Copywriting,Sharjah,9798.0,0.25,New Sale,Walk in,Quarterly
+Aug,2024,Vantoro Enterprises,Company,Social Media,Marketing,Al Ain,11567.0,0.3,New Sale,Organic,Quarterly
+Aug,2024,Zephyr Industries,Company,App Dev,Design,Dubai,10695.0,0.4,Repeat Sale,Ads,Bi Annual
+Aug,2024,Sarah Ahmed,Individual,Social Media,Marketing,Dubai,8172.0,0.3,Repeat Sale,Organic,Monthly
+Aug,2024,Synergenix Labs,Company,SEO,Copywriting,Dubai,11861.0,0.25,New Sale,Ads,Annual
+Aug,2024,Octavium Digital,Company,Ads,Marketing,Abu Dhabi,9891.0,0.25,Repeat Sale,Ads,Quarterly
+Aug,2024,Omar Ali,Individual,Web Dev,Design,Sharjah,8926.0,0.35,New Sale,Ads,Bi Annual
+Aug,2024,Yousuf Al Marri,Individual,Ads,Marketing,Sharjah,8360.0,0.25,New Sale,Ads,Annual
+Aug,2024,Synergenix Labs,Company,Web Dev,Design,Dubai,11824.0,0.35,New Sale,Organic,Bi Annual
+Aug,2024,Octavium Digital,Company,SEO,Copywriting,Al Ain,8742.0,0.25,Repeat Sale,Walk in,Monthly
+Aug,2024,Synergenix Labs,Company,Web Dev,Design,Al Ain,10770.0,0.35,Repeat Sale,Walk in,Annual
+Aug,2024,Saeed Al Saeed,Individual,SEO,Copywriting,Al Ain,9302.0,0.25,Repeat Sale,Ads,Monthly
+Aug,2024,Fatima Saeed,Individual,Ads,Marketing,Abu Dhabi,12168.0,0.25,Repeat Sale,Organic,Quarterly
+Aug,2024,Sarah Ahmed,Individual,Ads,Marketing,Dubai,10185.0,0.25,Repeat Sale,Organic,Quarterly
+Aug,2024,Tariq Al Zahrani,Individual,SEO,Copywriting,Dubai,8728.0,0.25,New Sale,Ads,Bi Annual
+Aug,2024,Noura Rashid,Individual,SEO,Copywriting,Dubai,7600.0,0.25,Repeat Sale,Organic,Annual
+Aug,2024,Vantoro Enterprises,Company,Ads,Marketing,Dubai,11230.0,0.25,Repeat Sale,Walk in,Quarterly
+Aug,2024,Octavium Digital,Company,App Dev,Design,Dubai,10417.0,0.4,Repeat Sale,Walk in,Bi Annual
+Aug,2024,Synergenix Labs,Company,SEO,Copywriting,Sharjah,12228.0,0.25,Repeat Sale,Organic,Annual
+Aug,2024,Basma Nasser,Individual,Web Dev,Design,Al Ain,7994.0,0.35,New Sale,Ads,Bi Annual
+Sep,2024,InfiNova Technologies,Company,Web Dev,Design,Al Ain,7821.0,0.35,New Sale,Organic,Quarterly
+Sep,2024,Stratoscope,Company,Ads,Marketing,Dubai,8307.0,0.25,Repeat Sale,Ads,Annual
+Sep,2024,Jamal Al Maktoum,Individual,Ads,Marketing,Ajman,12123.0,0.25,New Sale,Walk in,Monthly
+Sep,2024,Quanta Sphere Tech,Company,SEO,Copywriting,Abu Dhabi,9011.0,0.25,New Sale,Organic,Bi Annual
+Sep,2024,Fatima Saeed,Individual,App Dev,Design,Abu Dhabi,7838.0,0.4,Repeat Sale,Organic,Annual
+Sep,2024,Altura Networks,Company,SEO,Copywriting,Dubai,8749.0,0.25,New Sale,Ads,Monthly
+Sep,2024,Yousuf Al Marri,Individual,Social Media,Marketing,Abu Dhabi,10186.0,0.3,New Sale,Organic,Monthly
+Sep,2024,InfiNova Technologies,Company,SEO,Copywriting,Sharjah,10716.0,0.25,Repeat Sale,Ads,Bi Annual
+Sep,2024,Ali Juma,Individual,Web Dev,Design,Al Ain,7772.0,0.35,Repeat Sale,Ads,Quarterly
+Sep,2024,Rania Omar,Individual,Social Media,Marketing,Abu Dhabi,10727.0,0.3,Repeat Sale,Ads,Quarterly
+Sep,2024,Quanta Sphere Tech,Company,Social Media,Marketing,Abu Dhabi,9692.0,0.3,New Sale,Walk in,Monthly
+Sep,2024,Tariq Al Zahrani,Individual,Ads,Marketing,Ajman,7719.0,0.25,Repeat Sale,Walk in,Monthly
+Sep,2024,Saeed Al Saeed,Individual,App Dev,Design,Dubai,10696.0,0.4,New Sale,Walk in,Annual
+Sep,2024,Quanta Sphere Tech,Company,Web Dev,Design,Sharjah,8937.0,0.35,Repeat Sale,Walk in,Bi Annual
+Sep,2024,Sarah Ahmed,Individual,SEO,Copywriting,Ajman,8073.0,0.25,New Sale,Walk in,Monthly
+Sep,2024,Ali Juma,Individual,SEO,Copywriting,Sharjah,8022.0,0.25,Repeat Sale,Ads,Quarterly
+Sep,2024,Solvium Solutions,Company,Ads,Marketing,Dubai,8595.0,0.25,Repeat Sale,Walk in,Bi Annual
+Sep,2024,Jamal Al Maktoum,Individual,App Dev,Design,Dubai,11394.0,0.4,Repeat Sale,Organic,Bi Annual
+Sep,2024,Vantoro Enterprises,Company,SEO,Copywriting,Sharjah,10952.0,0.25,Repeat Sale,Organic,Annual
+Sep,2024,Altura Networks,Company,Web Dev,Design,Ajman,10647.0,0.35,New Sale,Walk in,Quarterly
+Oct,2024,Synergenix Labs,Company,Web Dev,Design,Dubai,12237.0,0.35,New Sale,Organic,Quarterly
+Oct,2024,Khaled Al Farsi,Individual,App Dev,Design,Dubai,7697.0,0.4,Repeat Sale,Walk in,Quarterly
+Oct,2024,Aetherion Systems,Company,Web Dev,Design,Al Ain,10561.0,0.35,New Sale,Organic,Quarterly
+Oct,2024,Vantoro Enterprises,Company,Web Dev,Design,Ajman,9113.0,0.35,Repeat Sale,Organic,Monthly
+Oct,2024,Hanan Al Khatri,Individual,Web Dev,Design,Sharjah,11072.0,0.35,Repeat Sale,Organic,Annual
+Oct,2024,Synergenix Labs,Company,SEO,Copywriting,Abu Dhabi,11431.0,0.25,Repeat Sale,Ads,Annual
+Oct,2024,Quanta Sphere Tech,Company,SEO,Copywriting,Dubai,8292.0,0.25,New Sale,Organic,Annual
+Oct,2024,Synergenix Labs,Company,App Dev,Design,Abu Dhabi,9766.0,0.4,Repeat Sale,Walk in,Monthly
+Oct,2024,Octavium Digital,Company,Ads,Marketing,Dubai,12273.0,0.25,Repeat Sale,Organic,Bi Annual
+Oct,2024,Altura Networks,Company,Web Dev,Design,Dubai,9992.0,0.35,Repeat Sale,Walk in,Bi Annual
+Oct,2024,Mariam Al Shamsi,Individual,App Dev,Design,Al Ain,9750.0,0.4,New Sale,Organic,Annual
+Oct,2024,Mona Al Humaidi,Individual,SEO,Copywriting,Ajman,12051.0,0.25,New Sale,Ads,Monthly
+Oct,2024,Zayed Al Nuaimi,Individual,Social Media,Marketing,Al Ain,8442.0,0.3,Repeat Sale,Walk in,Quarterly
+Oct,2024,Saeed Al Saeed,Individual,SEO,Copywriting,Sharjah,10526.0,0.25,Repeat Sale,Walk in,Monthly
+Oct,2024,Hanan Al Khatri,Individual,App Dev,Design,Dubai,10041.0,0.4,Repeat Sale,Walk in,Bi Annual
+Oct,2024,Mariam Al Shamsi,Individual,SEO,Copywriting,Abu Dhabi,10310.0,0.25,Repeat Sale,Organic,Monthly
+Oct,2024,Nexa Core,Company,Web Dev,Design,Abu Dhabi,11400.0,0.35,New Sale,Walk in,Annual
+Oct,2024,Octavium Digital,Company,Web Dev,Design,Sharjah,9897.0,0.35,New Sale,Walk in,Quarterly
+Oct,2024,Jamal Al Maktoum,Individual,Web Dev,Design,Dubai,7923.0,0.35,New Sale,Organic,Bi Annual
+Oct,2024,Zayed Al Nuaimi,Individual,Social Media,Marketing,Dubai,11302.0,0.3,New Sale,Organic,Monthly
+Nov,2024,Layla Al Dhanhani,Individual,Web Dev,Design,Al Ain,9544.0,0.35,New Sale,Ads,Monthly
+Nov,2024,Laila Al Mulla,Individual,App Dev,Design,Ajman,8514.0,0.4,New Sale,Walk in,Quarterly
+Nov,2024,Solvium Solutions,Company,Social Media,Marketing,Al Ain,10974.0,0.3,Repeat Sale,Organic,Monthly
+Nov,2024,Mariam Al Shamsi,Individual,Ads,Marketing,Abu Dhabi,8571.0,0.25,New Sale,Organic,Monthly
+Nov,2024,InfiNova Technologies,Company,App Dev,Design,Abu Dhabi,8396.0,0.4,Repeat Sale,Ads,Monthly
+Nov,2024,Altura Networks,Company,Ads,Marketing,Al Ain,7837.0,0.25,Repeat Sale,Walk in,Monthly
+Nov,2024,Quanta Sphere Tech,Company,Web Dev,Design,Dubai,10358.0,0.35,Repeat Sale,Organic,Bi Annual
+Nov,2024,Sarah Ahmed,Individual,Web Dev,Design,Sharjah,8002.0,0.35,New Sale,Organic,Bi Annual
+Nov,2024,Zephyr Industries,Company,SEO,Copywriting,Dubai,7833.0,0.25,New Sale,Walk in,Bi Annual
+Nov,2024,InfiNova Technologies,Company,Social Media,Marketing,Sharjah,8395.0,0.3,New Sale,Organic,Monthly
+Nov,2024,Noura Rashid,Individual,SEO,Copywriting,Abu Dhabi,8763.0,0.25,Repeat Sale,Ads,Annual
+Nov,2024,Zayed Al Nuaimi,Individual,SEO,Copywriting,Dubai,8611.0,0.25,Repeat Sale,Organic,Bi Annual
+Nov,2024,Vantoro Enterprises,Company,SEO,Copywriting,Al Ain,9027.0,0.25,New Sale,Walk in,Quarterly
+Nov,2024,Mona Al Humaidi,Individual,SEO,Copywriting,Dubai,9355.0,0.25,New Sale,Walk in,Annual
+Nov,2024,Luminex Global,Company,Ads,Marketing,Ajman,10086.0,0.25,Repeat Sale,Organic,Quarterly
+Nov,2024,InfiNova Technologies,Company,Ads,Marketing,Abu Dhabi,11777.0,0.25,Repeat Sale,Walk in,Quarterly
+Nov,2024,Sarah Ahmed,Individual,Social Media,Marketing,Abu Dhabi,10987.0,0.3,Repeat Sale,Organic,Monthly
+Nov,2024,Luminex Global,Company,SEO,Copywriting,Sharjah,10033.0,0.25,Repeat Sale,Walk in,Annual
+Nov,2024,Noura Rashid,Individual,SEO,Copywriting,Ajman,9393.0,0.25,New Sale,Organic,Quarterly
+Nov,2024,Fatima Saeed,Individual,App Dev,Design,Dubai,8047.0,0.4,New Sale,Organic,Annual
+Dec,2024,Laila Al Mulla,Individual,Web Dev,Design,Ajman,9659.0,0.35,Repeat Sale,Walk in,Annual
+Dec,2024,Solvium Solutions,Company,Social Media,Marketing,Ajman,10862.0,0.3,Repeat Sale,Walk in,Bi Annual
+Dec,2024,Sarah Ahmed,Individual,Social Media,Marketing,Dubai,10307.0,0.3,Repeat Sale,Ads,Monthly
+Dec,2024,Zayed Al Nuaimi,Individual,Web Dev,Design,Abu Dhabi,8071.0,0.35,New Sale,Walk in,Monthly
+Dec,2024,Basma Nasser,Individual,SEO,Copywriting,Abu Dhabi,11504.0,0.25,New Sale,Organic,Monthly
+Dec,2024,Stratoscope,Company,App Dev,Design,Dubai,8983.0,0.4,Repeat Sale,Walk in,Bi Annual
+Dec,2024,Luminex Global,Company,SEO,Copywriting,Abu Dhabi,11329.0,0.25,Repeat Sale,Walk in,Annual
+Dec,2024,Stratoscope,Company,Ads,Marketing,Dubai,10036.0,0.25,Repeat Sale,Ads,Monthly
+Dec,2024,Fatima Saeed,Individual,Social Media,Marketing,Al Ain,7860.0,0.3,Repeat Sale,Walk in,Quarterly
+Dec,2024,Jamal Al Maktoum,Individual,SEO,Copywriting,Al Ain,10855.0,0.25,Repeat Sale,Ads,Annual
+Dec,2024,Aetherion Systems,Company,Social Media,Marketing,Dubai,10077.0,0.3,Repeat Sale,Organic,Annual
+Dec,2024,Vantoro Enterprises,Company,App Dev,Design,Abu Dhabi,11309.0,0.4,Repeat Sale,Walk in,Quarterly
+Dec,2024,Nexa Core,Company,Social Media,Marketing,Dubai,9219.0,0.3,Repeat Sale,Organic,Bi Annual
+Dec,2024,Luminex Global,Company,Ads,Marketing,Al Ain,7514.0,0.25,Repeat Sale,Ads,Monthly
+Dec,2024,Tariq Al Zahrani,Individual,Social Media,Marketing,Sharjah,8803.0,0.3,New Sale,Organic,Annual
+Dec,2024,InfiNova Technologies,Company,Web Dev,Design,Al Ain,9148.0,0.35,New Sale,Walk in,Annual
+Dec,2024,Zayed Al Nuaimi,Individual,Web Dev,Design,Al Ain,8041.0,0.35,Repeat Sale,Walk in,Bi Annual
+Dec,2024,Mona Al Humaidi,Individual,App Dev,Design,Ajman,11892.0,0.4,Repeat Sale,Organic,Monthly
+Dec,2024,Ahmed Yousuf,Individual,Web Dev,Design,Dubai,12054.0,0.35,Repeat Sale,Organic,Bi Annual
+Dec,2024,InfiNova Technologies,Company,Web Dev,Design,Ajman,11701.0,0.35,Repeat Sale,Walk in,Quarterly
