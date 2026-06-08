@@ -72,7 +72,7 @@ else:
     st.write("⚠️ data/ folder does NOT exist on the server")
 # --- END DIAGNOSTIC ---
 
-df = pd.read_csv(csv_path)
+    df = pd.read_csv(csv_path)
     df["year"] = df["year"].astype(str)
     df["margin_amt"] = df["sales"] * df["margin_pct"]
     # Make month sort calendar-correct, not alphabetical.
