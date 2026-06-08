@@ -56,23 +56,18 @@ def load_data(filename: str = "UAE_sales_data.csv") -> pd.DataFrame:
     """
      # csv_path = Path(__file__).parent / filename
     # df = pd.read_csv(csv_path)
+    @st.cache_data
+def load_data():
     from pathlib import Path
-import os
+    import os
 
-BASE = Path(__file__).parent
-csv_path = BASE / "data" / "UAE_sales_data.csv"
-
-# --- TEMPORARY DIAGNOSTIC ---
-st.write("Looking for:", str(csv_path))
-st.write("That path exists?", csv_path.exists())
-st.write("Files in app folder:", os.listdir(BASE))
-if (BASE / "data").exists():
-    st.write("Files in data/:", os.listdir(BASE / "data"))
-else:
-    st.write("⚠️ data/ folder does NOT exist on the server")
-# --- END DIAGNOSTIC ---
+    BASE = Path(__file__).parent
+    csv_path = BASE / "data" / "UAE_sales_data.csv"
 
     df = pd.read_csv(csv_path)
+    df["year"] = df["year"].astype(str)
+    # ... rest of the function
+    return df
     df["year"] = df["year"].astype(str)
     df["margin_amt"] = df["sales"] * df["margin_pct"]
     # Make month sort calendar-correct, not alphabetical.
