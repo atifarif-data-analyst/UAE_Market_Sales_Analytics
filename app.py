@@ -54,8 +54,25 @@ def load_data(filename: str = "UAE_sales_data.csv") -> pd.DataFrame:
     currency is sales * margin_pct, computed once here so every chart
     can sum it directly.
     """
-    csv_path = Path(__file__).parent / filename
-    df = pd.read_csv(csv_path)
+     # csv_path = Path(__file__).parent / filename
+    # df = pd.read_csv(csv_path)
+    from pathlib import Path
+import os
+
+BASE = Path(__file__).parent
+csv_path = BASE / "data" / "UAE_sales_data.csv"
+
+# --- TEMPORARY DIAGNOSTIC ---
+st.write("Looking for:", str(csv_path))
+st.write("That path exists?", csv_path.exists())
+st.write("Files in app folder:", os.listdir(BASE))
+if (BASE / "data").exists():
+    st.write("Files in data/:", os.listdir(BASE / "data"))
+else:
+    st.write("⚠️ data/ folder does NOT exist on the server")
+# --- END DIAGNOSTIC ---
+
+df = pd.read_csv(csv_path)
     df["year"] = df["year"].astype(str)
     df["margin_amt"] = df["sales"] * df["margin_pct"]
     # Make month sort calendar-correct, not alphabetical.
